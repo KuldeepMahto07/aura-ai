@@ -1,6 +1,6 @@
 # ⚡ Aura AI - Magic Web Design
 
-![Aura AI Interface](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop)
+![Aura AI Interface](https://ibb.co/k68LTw76)
 
 > Turn intent into intelligent architecture. A next-generation AI-powered web design platform interface built for speed, aesthetics, and flawless execution.
 
