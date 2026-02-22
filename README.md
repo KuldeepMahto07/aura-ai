@@ -1,20 +1,68 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ⚡ Aura AI - Magic Web Design
 
-# Run and deploy your AI Studio app
+![Aura AI Interface](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop)
 
-This contains everything you need to run your app locally.
+> Turn intent into intelligent architecture. A next-generation AI-powered web design platform interface built for speed, aesthetics, and flawless execution.
 
-View your app in AI Studio: https://ai.studio/apps/763110a1-d18b-4e19-a1fc-ef3021c8cb79
+## 🌟 Overview
 
-## Run Locally
+Aura AI is an ultra-premium, highly interactive landing page and platform template. Designed to showcase enterprise-grade artificial intelligence capabilities, it features seamless micro-animations, complex scroll-linked visualizers, and a striking dark-mode aesthetic. 
 
-**Prerequisites:**  Node.js
+## ✨ Key Features
 
+- **Interactive Globe Hero**: A physics-based, interactive 3D-feeling globe with dynamic light trails and particle effects that responds to scroll and mouse movement.
+- **Intelligence in Motion**: A simulated real-time terminal and visualizer that demonstrates "prompt-to-production" AI capabilities using layout morphing.
+- **Magnetic UI Elements**: Highly reactive buttons, cards, and pricing tiers that track cursor movement and apply subtle radial glows.
+- **Scroll-Linked Animations**: Complex viewport-triggered Framer Motion sequences that build the page dynamically as you scroll up and down.
+- **Performance Metrics**: Hardware-accelerated SVG circular progress arcs and animated counting numbers.
+- **Desktop Parity on Mobile**: A structurally uncompromised grid layout that preserves the exact high-end desktop experience on mobile devices.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+- **Framework**: [React 18](https://reactjs.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Motion & Physics**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have Node.js (v18+) and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/aura-ai.git
+   cd aura-ai
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## 📐 Project Structure
+
+- `src/App.tsx`: The main page assembly and global layout constraints.
+- `src/components/ui/*`: Isolated, high-fidelity components (e.g., `pricing-section`, `performance-metrics`, `intelligence-in-motion`).
+- `src/pages/*`: Dedicated sub-pages like the core architecture showcase.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+*Elevate your standards. Unprecedented speed. Effortless execution. Flawless aesthetics.*
