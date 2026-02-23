@@ -1,6 +1,6 @@
 # ⚡ Aura AI - Magic Web Design
 
-![Aura AI Interface](https://ibb.co/k68LTw7](https://i.ibb.co/rf6Bhzjf/Upsacle-the-image-2k-202602230516.jpg)6)
+![Aura AI Interface](https://i.ibb.co/rf6Bhzjf/Upsacle-the-image-2k-202602230516.jpg)
 
 > Turn intent into intelligent architecture. A next-generation AI-powered web design platform interface built for speed, aesthetics, and flawless execution.
 
